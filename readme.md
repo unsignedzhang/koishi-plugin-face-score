@@ -4,4 +4,4 @@
 
 发送测颜值+图片，获取评分结果
 
-![QQ截图20231209155540|566x500](https://github.com/unsignedzhang/koishi-plugin-face-score/blob/main/20231209155540.png)
+![QQ截图20231209155540|283x250](https://github.com/unsignedzhang/koishi-plugin-face-score/blob/main/20231209155540.png)
